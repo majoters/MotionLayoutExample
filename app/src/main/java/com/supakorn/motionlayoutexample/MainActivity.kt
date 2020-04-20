@@ -1,4 +1,4 @@
-package com.supakorn.motionlayoutexample2
+package com.supakorn.motionlayoutexample
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

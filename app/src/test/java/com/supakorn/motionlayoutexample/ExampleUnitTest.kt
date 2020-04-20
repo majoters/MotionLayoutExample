@@ -1,4 +1,4 @@
-package com.supakorn.motionlayoutexample2
+package com.supakorn.motionlayoutexample
 
 import org.junit.Test
 
