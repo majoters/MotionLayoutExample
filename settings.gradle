@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "MotionLayoutExample2"
+rootProject.name = "MotionLayoutExample"
